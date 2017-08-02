@@ -12,7 +12,7 @@ namespace Harmonograph
             if (f == "-")
             {
                 Console.Write("input file.\n>>> ");
-                f = Console.ReadLine() + ".json";
+                f = $"presets\\{Console.ReadLine()}.json";
             }
             using (var w = new GraphWindow(f))
             {

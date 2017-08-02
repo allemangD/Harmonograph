@@ -1,0 +1,23 @@
+{
+    "back": "0xffffffff",
+    "front": "0xff000000",
+    "displayRate": 500,
+    "viewHeight": 3,
+    "pendulums": [
+        {
+            "amplitude": { "x": 1.5, "y": 0 },
+            "period": 2,
+            "friction": 0.02
+        },
+        {
+            "amplitude": { "x": 0, "y": 1 },
+            "period": 1,
+            "friction": 0.02
+        },
+        {
+            "amplitude": { "x": 1, "y": 1 },
+            "period": .5,
+            "friction": .01
+        }
+    ]
+}
