@@ -16,8 +16,8 @@
         },
         {
             "amplitude": { "x": 1, "y": 1 },
-            "period": .5,
-            "friction": .01
+            "period": 0.5,
+            "friction": 0.01
         }
     ]
 }
