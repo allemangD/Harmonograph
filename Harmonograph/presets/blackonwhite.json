@@ -15,12 +15,12 @@
             "friction": 0.0005
         },
         {
-            "amplitude": { "x": .5, "y": .5 },
+            "amplitude": { "x":0 .5, "y": 0.5 },
             "period": 1.001,
             "friction": 0.0005
         },
         {
-            "amplitude": { "x": -.5, "y": .5 },
+            "amplitude": { "x": -0.5, "y": 0.5 },
             "period": 2.999,
             "friction": 0.0005
         }
