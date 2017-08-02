@@ -1,6 +1,6 @@
 # Harmonograph
 
-Generates patterns like a real [harmonograph](https://en.wikipedia.org/wiki/Harmonograph). [Video](https://youtu.be/bXAWXoew9mM)
+Generates patterns like a real [harmonograph](https://en.wikipedia.org/wiki/Harmonograph).
 
 This was just a fun project to work on. It generates a complex parametric equation from input JSON files, and animates the resulting function. It can also save the final image to a file. There are some pre-made JSON files with interesting results in [`Harmonograph/Presets`](https://github.com/allemangD/Harmonograph/tree/master/Harmonograph/presets).
 
