@@ -1,0 +1,29 @@
+{
+    "back": "0x10ffffff",
+    "front": "0x70000000",
+    "displayRate": 1,
+    "cycles": 10,
+    "viewHeight": 3,
+    "pendulums": [
+        {
+            "amplitude": { "x": 2, "y": -.5 },
+            "period": 5.01,
+            "friction": 0.01
+        },
+        {
+            "amplitude": { "x": 0, "y": .5 },
+            "period": 4.01,
+            "friction": 0.01
+        },
+        {
+            "amplitude": { "x": .5, "y": .5 },
+            "period": 1,
+            "friction": 0.01
+        },
+        {
+            "amplitude": { "x": -.5, "y": .5 },
+            "period": 3,
+            "friction": 0.01
+        }
+    ]
+}
